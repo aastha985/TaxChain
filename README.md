@@ -72,6 +72,23 @@ Imagine knowing how the government is using your money? How awesome is that!
 3. Start Server: ```npm start```
 4. Go to http://localhost:3000
 5. You will be asked to login on Portis Wallet integrated with the website. Create and account on Portis and login.
+
+## Screenshots
+<img height="300" src="https://imgur.com/uISL5DX.png">
+<img height="300" src="https://imgur.com/Eongf20.png">
+<img height="300" src="https://imgur.com/Zodhpgs.png">
+<img height="300" src="https://imgur.com/ywgIs3z.png">
+<img height="300" src="https://imgur.com/nkH5fBB.png">
+<img height="300" src="https://imgur.com/Uz6Lwcf.png">
+<img height="300" src="https://imgur.com/x9dK23H.png">
+<img height="300" src="https://imgur.com/wzx3Cms.png">
+<img height="300" src="https://imgur.com/5jyqTBx.png">
+<img height="300" src="https://imgur.com/KuQKtCM.png">
+<img height="300" src="https://imgur.com/TzkvLI1.png">
+<img height="300" src="https://imgur.com/HMvW5Vn.png">
+<img height="300" src="https://imgur.com/gpdcrjU.png">
+<img height="300" src="https://imgur.com/jX7eavZ.png">
+<img height="300" src="https://imgur.com/uXE03af.png">
  
 ## Developers
 <table>
