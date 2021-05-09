@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+.color-nav {
+    background-color: black;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.nav-link {
+    color: white !important;
+    margin-left: 0.6rem;
+    margin-right: 0.6rem;
+}
+
+.nav-link:hover {
+    color: #00d395 !important;
+}
+
+.btn-green {
+    border: 1.5px solid #00d395;
+    color: #00d395;
+    font-size: 0.9rem;
+    font-weight: 600;
+    padding: 0.6rem 1.5rem;
+}
+
+.btn-green:hover {
+    background-color: #00d395;
+    color: white;
+}
+
+.icon {
+    color: #00d395;
+    margin-right: 0.5rem;
+    font-size: 1.5rem;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+}
+
+@media only screen and (max-width: 768px) {
+    .nav-link {
+        text-align: left;
+    }
+    .btn-green {
+        margin-left: -1.5rem;
+    }
+    .navbar-signup {
+        margin-left: -0.25rem;
+    }
+}

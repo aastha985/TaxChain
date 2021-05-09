@@ -1,0 +1,27 @@
+.footer {
+    background-color: black;
+    height: 9rem;
+}
+
+.footer-text {
+    color: white;
+    padding-top: 3rem;
+    text-align: left;
+    font-weight: 700;
+}
+.icon-heart {
+    color: red;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+.footer-name {
+    color: #00d395;
+}
+.footer-name:hover {
+    color: #00d395;
+}
+.footer-text-copyright {
+    color: #657786;
+    padding-top: 1rem;
+    text-align: left !important;
+}

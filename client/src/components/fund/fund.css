@@ -1,0 +1,17 @@
+.fund-card {
+    border-style: none;
+    box-shadow: 0px 3px 6px rgb(0 0 0 / 4%);
+    border-radius: 10px;
+    transition: box-shadow 0.3s ease-in-out;
+    margin-top: -4.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.fund-text {
+    color: #1c2332;
+}
+
+.fund-heading {
+    font-weight: 800;
+    color: #1c2332;
+}

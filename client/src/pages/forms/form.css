@@ -1,0 +1,84 @@
+.auth-black-bg {
+  background-image: url("../../pattern-large-dots.svg");
+  background-position: center;
+  background-color: black;
+  height: 100vh;
+  /* padding-top: 5rem; */
+}
+
+.form-container-login {
+  margin: auto;
+  padding-top: 10rem;
+  width: 90%;
+  max-width: 400px;
+  height: 100vh;
+}
+.form-container-signup {
+  margin: auto;
+  padding-top: 5rem;
+  width: 90%;
+  max-width: 400px;
+  height: 100vh;
+}
+
+.form-container h1 {
+  color: white;
+  font-size: 3rem;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+}
+.input-field input {
+  border: none;
+  border-bottom: 2px solid #00d395;
+  width: 100%;
+  background-color: transparent;
+  height: 30px;
+  color: white;
+}
+.input-field input:focus {
+  outline: none !important;
+}
+.input-field {
+  display: flex;
+  margin-bottom: 25px;
+}
+
+.input-field i {
+  font-size: 28px;
+  /* margin-right: 5px; */
+  padding-right: 10px;
+  color: #00d395;
+  border-bottom: 2px solid #00d395;
+}
+.input-field select {
+  width: 100%;
+  background-color: transparent;
+  color: #00d395;
+  border: none;
+  border-bottom: 2px solid #00d395;
+}
+
+/* .input-field select option{
+    background-color: black;
+} */
+.input-field select option:hover {
+  background-color: #00d395;
+}
+
+.input-field select:focus {
+  outline: none;
+}
+
+button.btn-submit {
+  width: 100%;
+  background-color: #00d395;
+  color: white;
+  border: none;
+  height: 40px;
+  cursor: pointer;
+}
+button.btn-submit:hover {
+  background-color: transparent;
+  color: #00d395;
+  border: 2px solid #00d395;
+}

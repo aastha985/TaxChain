@@ -1,0 +1,9 @@
+.gc-card {
+    border-style: none;
+    box-shadow: 0px 3px 6px rgb(0 0 0 / 4%);
+    border-radius: 10px;
+    transition: box-shadow 0.3s ease-in-out;
+    padding: 2rem;
+    margin-top: -2rem;
+    margin-bottom: 3rem;
+}

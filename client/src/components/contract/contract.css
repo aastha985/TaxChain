@@ -1,0 +1,15 @@
+.contract-bold-txt {
+    font-weight: 700;
+    font-size: 1.3rem;
+    color: #091c45;
+}
+
+.contract-close-btn {
+    background-color: #00d395;
+    border: 2px solid #00d395;
+}
+
+.contract-close-btn:hover {
+    background-color: #00d395;
+    border: 2px solid #00d395;
+}

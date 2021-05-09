@@ -1,0 +1,25 @@
+.pt-find-btn {
+    background-color: #00d395;
+    border: 2px solid #00d395;
+    margin-bottom: 1rem;
+}
+
+.pt-find-btn:hover {
+    background-color: white;
+    border: 2px solid #00d395;
+    color: #00d395;
+}
+
+.pt-card {
+    border-style: none;
+    box-shadow: 0px 3px 6px rgb(0 0 0 / 4%);
+    border-radius: 10px;
+    transition: box-shadow 0.3s ease-in-out;
+    margin-top: -4.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.pt-heading {
+    font-weight: 800;
+    color: #1c2332;
+}

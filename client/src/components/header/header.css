@@ -1,0 +1,13 @@
+.header-black-bg {
+    background-color: black;
+    height: 20rem;
+}
+
+.header-above {
+    padding-top: 9rem;
+    color: white;
+}
+
+.header-heading {
+    font-weight: 700;
+}

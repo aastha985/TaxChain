@@ -1,0 +1,29 @@
+{
+  "name": "taxchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai-as-promised": "^7.1.1",
+    "chai": "^4.3.4",
+    "chai-bn": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agrim19/TaxChain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agrim19/TaxChain/issues"
+  },
+  "homepage": "https://github.com/agrim19/TaxChain#readme"
+}

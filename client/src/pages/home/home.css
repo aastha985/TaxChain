@@ -1,0 +1,94 @@
+.black-bg {
+    background-color: black;
+    height: 70rem;
+}
+
+.img {
+    background-image: url("../../pattern-large-dots.svg");
+    height: 70rem;
+}
+
+.row-2 {
+    margin-top: 14rem;
+}
+.white-text {
+    color: white;
+    font-weight: 700;
+    font-size: 1.25rem;
+    text-align: left;
+}
+
+.bold-green {
+    color: #00d395;
+    font-weight: 700;
+    text-align: left;
+}
+
+.icon-arrow {
+    color: #00d395;
+    margin-left: 0.5rem;
+    font-size: 1.2rem;
+}
+
+.icon-big {
+    margin-top: -3rem;
+    font-size: 15rem;
+}
+
+.white-bg {
+    background-color: #f9f9fb;
+    height: 90rem;
+}
+
+/* white */
+.grey {
+    color: #aab8c1;
+    text-align: left;
+    font-weight: 500;
+    padding-top: 10rem;
+}
+
+.heading {
+    text-align: left;
+    font-weight: 700;
+}
+
+.button-green {
+    background-color: #00d395;
+    border: 2px solid #00d395;
+    width: 9rem;
+}
+
+.button-green:hover {
+    background-color: #f9f9fb;
+    border: 2px solid #00d395;
+    color: #00d395;
+}
+
+@media only screen and (max-width: 993px) {
+    .white-text {
+        font-size: 1rem;
+        text-align: justify;
+    }
+
+    .row-2 {
+        margin-top: 3rem;
+    }
+
+    .icon-big {
+        margin-top: 2rem;
+        font-size: 10rem;
+    }
+
+    .black-bg {
+        background-color: black;
+        height: 60rem;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .white-bg {
+        background-color: #f9f9fb;
+        height: 160rem;
+    }
+}

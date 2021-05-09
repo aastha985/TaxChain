@@ -1,0 +1,71 @@
+.constituency-heading {
+    color: white;
+    margin-top: 4rem;
+}
+
+.constituency-card {
+    border-style: none;
+    box-shadow: 0px 3px 6px rgb(0 0 0 / 4%);
+    border-radius: 10px;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.constituency-form-card {
+    padding: 2rem;
+    margin-top: 4rem;
+}
+
+.constituency-form-button-green {
+    background-color: #00d395;
+    border: 2px solid #00d395;
+}
+
+.constituency-form-button-green:hover {
+    background-color: white;
+    border: 2px solid #00d395;
+    color: #00d395;
+}
+
+.constituency-find-btn {
+    background-color: #00d395;
+    border: 2px solid #00d395;
+    width: 8rem;
+    margin-top: 1.8rem;
+}
+
+.constituency-find-btn:hover {
+    background-color: white;
+    border: 2px solid #00d395;
+    color: #00d395;
+}
+
+.constituency-transaction-card {
+    margin-top: 1rem;
+    padding: 2rem;
+}
+
+.constituency-transaction-heading {
+    font-weight: 800;
+    margin-bottom: 3rem;
+    color: #1c2332;
+}
+
+.constituency-transaction-heading {
+    font-weight: 800;
+    margin-bottom: 3rem;
+    color: #1c2332;
+}
+
+.constituency-transaction-h2 {
+    font-weight: 800;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+.constituency-transaction-table {
+    background-color: #cceabb;
+}
+
+.constituency-above-footer {
+    margin-bottom: 10rem;
+}
