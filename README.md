@@ -39,6 +39,8 @@ The main stakeholders in our idea are the Citizens, the government, constituenci
 The transparency and immutability of the blockchain helps achieve this aim. We have shifted all tax related transactions to a blockchain, due to which every single transaction taking place in the complete chain will be visible to every person of the country. This way, it will become much easier for the general public to keep track of the total tax collection, they will know whether their funds are being used well or not, hence implementing the required transparency.
 
 ## Description of Working
+Can be found in the video here:
+https://drive.google.com/drive/u/0/folders/1txqFJaYf0ErtLnQZvreQrFHVd2sFBIgP
 
 ## Challenges We Ran Into
 1. Making the right structure for contracts in Blockchain.
